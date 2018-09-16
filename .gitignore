@@ -22,4 +22,4 @@ htmlcov/
 .coverage.*
 *,cover
 # database files
-.sqlite
+*.sqlite
